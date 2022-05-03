@@ -1,0 +1,35 @@
+{
+  "name": "achat",
+  "version": "1.0.0",
+  "description": "A chatting app.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "host": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatherf-chat/achat.git"
+  },
+  "keywords": [
+    "chat",
+    "chatting",
+    "js",
+    "ejs",
+    "text",
+    "port",
+    "timepass",
+    "AaTherf"
+  ],
+  "author": "AaTherf",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aatherf-chat/achat/issues"
+  },
+  "homepage": "https://github.com/aatherf-chat/achat#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "react": "^18.1.0",
+    "reactdom": "^2.0.0"
+  }
+}
